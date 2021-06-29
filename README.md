@@ -1,3 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=SHINDE%20SUYOG!&fontSize=50)
+
+
 ### Hi there, I am [Shinde Suyog](https://www.linkedin.com/in/suyog-shinde-233ab61b4/) 👋 
 
 <!--
@@ -67,3 +71,8 @@ currently experimenting and exploring for experiences.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shindesuyog.shindesuyog)
 </div>
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=THANK%20YOU&fontSize=50)
+
+
