@@ -24,7 +24,7 @@ I'm a frontend web developer, a competitive programmer & an open source enthusia
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Studing at Dr. D. Y. Patil Institute of Techmology.
+- 🔭 I’m currently Studing at Dr. D. Y. Patil Institute of Technology.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on web technology.
 - 🤔 I’m looking for help with DSA.
