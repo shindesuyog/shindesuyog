@@ -1,8 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=SHINDE%20SUYOG!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=HELLO%20PROGRAMMER!&fontSize=50)
 
 
 ### Hi there, I am [Shinde Suyog](https://www.linkedin.com/in/suyog-shinde-233ab61b4/) 👋 
+
+  <img src="https://github-hero-readme.vercel.app/api?username=shindesuyog&linkedin=suyog-shinde-233ab61b4/&twitter=Abhi to nahi hu &description=Open Source | Web Developer | ML   Enthaustic" width="100%">
 
 <!--
 **shindesuyog/shindesuyog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
