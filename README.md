@@ -74,6 +74,8 @@ currently experimenting and exploring for experiences.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shindesuyog.shindesuyog)
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=THANK%20YOU&fontSize=50)
 
