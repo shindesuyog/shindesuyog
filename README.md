@@ -69,14 +69,18 @@ currently experimenting and exploring for experiences.
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=shindesuyog&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+.<h2>🏆 Github Trophy</h2></a>.
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shindesuyog&theme=juicyfresh&margin-w=15&)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shindesuyog.shindesuyog)
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=THANK%20YOU&fontSize=50)
+
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=THANK%20YOU&fontSize=50)
+
 
 
