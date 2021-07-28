@@ -1,9 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=HELLO%20PROGRAMMERS!&fontSize=50)
 
-
-### Hi there, I am [Shinde Suyog](https://www.linkedin.com/in/suyog-shinde-233ab61b4/) 👋 
-
+# Hi there, I am [Shinde Suyog](https://www.linkedin.com/in/suyog-shinde-233ab61b4/) 👋 
+🔵🟡🔴🟢🟠
   <img src="https://github-hero-readme.vercel.app/api?username=shindesuyog&linkedin=suyog-shinde-233ab61b4/&twitter=Abhi to nahi hu &description=Open Source | Web Developer | ML   Enthaustic" width="100%">
 
 <!--
@@ -74,9 +73,13 @@ currently experimenting and exploring for experiences.
 [![trophy](https://github-profile-trophy.vercel.app/?username=shindesuyog&theme=juicyfresh&margin-w=15&)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shindesuyog.shindesuyog)
-
+   <br>
+  <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=THANK%20YOU&fontSize=50)
+  
+ 
+
 
 </div>
 
